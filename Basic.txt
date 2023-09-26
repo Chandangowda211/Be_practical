@@ -1,0 +1,28 @@
+import numpy as np
+import scipy.linalg as lg
+#3x+4y=10
+#4x+5y=9
+a=np.array([[3,4],[2,5]])
+b=np.array([10,9])
+print(f'The solution is::{lg.solve(a,b)}')
+
+print('----------------------------')
+
+array=np.array([
+    [1,2,3],[4,5,6],[8,8,9]
+])
+print(array)
+# finding determint
+determnt=lg.det(array)
+print(f'The determint result is:: {determnt}')
+
+print('--------------------------')
+
+# finding the inverse of a matrix
+inv_array=lg.inv(array)
+print(f'The inverse of the ary is::{inv_array}')
+
+# we can also multiply the array with its inverse
+print('--------------------------')
+print('Inverse of matrix')
+print(array@inv_array)
