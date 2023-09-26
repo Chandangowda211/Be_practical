@@ -26,3 +26,8 @@ print(f'The inverse of the ary is::{inv_array}')
 print('--------------------------')
 print('Inverse of matrix')
 print(array@inv_array)
+
+print('Enter two numbers')
+a=int(input())
+b=-int(input())
+print(f'The sum of 2 nos is:: {a+b})
