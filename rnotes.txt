@@ -23,4 +23,20 @@ Correlation Datasets
  		  negative correlation - Two variables move in opposite direction 
  		  No or zero correlation - No relationship b/w two variables
 
-mean 
+mean,median,mode, and range of datasets
+ *mean of a datasets is the average of all observation present in the table
+ *mean=sum of observations/Total numbers of elements in data set
+ *median of a dataset is the middle value of the collection of data when arranged in ascending order and desecding order
+ *mode of a dataset is the variable or number or value which is repeated maximum number of times
+ *Range of dataset is difference between maximum and minimum value
+
+properties of dataset
+ To understand the nature of data we can use Exploratory data analysis(EDA)
+
+ properties of datatsets 
+ 1.Centre of data 
+ 2.skeness of data 
+ 3.Spread omong the data memebers 
+ 4.presence of outliers
+ 5.correlation among the data
+ 6.Type of probability distribution that the data follows
