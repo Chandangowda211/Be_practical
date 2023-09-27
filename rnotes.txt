@@ -1,0 +1,26 @@
+Bivararte datasets 
+*It has two variable and it deals with the relationship between the two variables.
+*Example: The sales of ice cream versus the temperature 
+
+Multivariate Datasets 
+*A dataset with multiple variables
+*It contains three or more than three data types(variables)
+ Ex: measure length,width,height,volume of a rectangualr box.
+
+Categorical Datasets with two values
+*It represents features or characteritics of a person or an object 
+ Ex1: A person's gender
+    2 Marital Status
+
+Categorical datasets with more than two values 
+  EX: survey - very satisfied to very dissatisfied
+  	  Health care - mild ,moderate, or severe symptom 
+
+Correlation Datasets 
+ values dependent on each other
+
+ 3 types: positive correlation - Two varibales move in same direction
+ 		  negative correlation - Two variables move in opposite direction 
+ 		  No or zero correlation - No relationship b/w two variables
+
+mean 
