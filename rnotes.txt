@@ -11,6 +11,25 @@ insert into Players values
 (106,'matt','scotland',3);
 
 #to dispaly total num of player who has the goals>6
+delimiter //
+create procedure Top_players()
+begin
+select Name,country,Goals from Players
+where Goals>6
+end //
+delimiter;
+
+call Top_Players();
+
+#dispaly the players from country usa
+
+delimiter //
+create procedure country_usa()
+begin
+select Name,country,Goals from Players
+where country=='USA'
+end //
+delimiter;
 
 
 
