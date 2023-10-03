@@ -1,3 +1,33 @@
+
+
+
+create table Players(Id int,Name varchar(20),country varchar(20),Goals int);
+insert into Players values
+(101,'Sam','USA',9),
+(102,'bruno','sweden',6),
+(103,'Daniel','USA',7),
+(104,'anthony','france',10),
+(105,'matt','USA',5),
+(106,'matt','scotland',3);
+
+#to dispaly total num of player who has the goals>6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Bivararte datasets 
 *It has two variable and it deals with the relationship between the two variables.
 *Example: The sales of ice cream versus the temperature 
@@ -40,3 +70,6 @@ properties of dataset
  4.presence of outliers
  5.correlation among the data
  6.Type of probability distribution that the data follows
+
+ Why statitics 
+*
