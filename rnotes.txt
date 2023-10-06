@@ -38,11 +38,37 @@ properties of dataset
  properties of datatsets 
  1.Centre of data 
  2.skeness of data 
- 3.Spread among the data memebers 
+ 3.Spread among the data members 
  4.presence of outliers
  5.correlation among the data
  6.Type of probability distribution that the data follows
 
 Pie chart 
 Syntax- pie(x,labels,radius,main,col,clockwise)
+
+Box plot 
+Syntax - pie(x, data, notch,varwidth,names,main)
+
+Line Graphs 
+Synatax - plot(v, type,column,xlab,ylab)
+
+Scatter plot 
+Syntax - plot(x,y,main,xlab,ylab,xlim,ylim,axes)
+
+Hypothesis Testing 
+It is often used by scientists to test specific predictions, called hypothesis that arise from theories that is 'Currently accepted value for a parameter(population)'
+It is statistical method used in making a statistical decision using experimental data 
+A hypothesis is simply a claim or statement about population parameters and that we want to set 
+
+Hypothesis testing 
+Widely defines - all automobiles 
+Narrowly defined - all ford mustang cars produced from 2002 to 2005
+ Null hypothesis H0 is the right one 
+If we prove H0 false next will vibe alternative hypothesis
+
+Descriptive stats               Population (parameter)              Sample (Statistics)
+
+Mean					mue					X bar
+Variance 				Sigma square				S*S
+Standard Deviation			Sigma					S                  
 
